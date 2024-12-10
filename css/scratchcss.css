@@ -1,0 +1,74 @@
+body{
+    background-color: gray;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.navigation{
+    padding-bottom: 10px;
+    left: 2%;
+    text-align: center;
+}
+.onpage{
+    right: 2%;
+    text-align: center;
+}
+h3{
+    color: beige;
+}
+.title{
+    padding-bottom: 0px;
+    color: beige;
+    text-align: center;
+}
+.common{
+    border: 2px solid white;
+    position:absolute;
+    width: 45%;
+    padding: 1%;
+}
+.pt1{
+    top: 150px;
+    left: 2%;
+}
+.pt2{
+    top: 150px;
+    right: 2%;
+}
+.pt3{
+    top: 660px;
+    left: 2%;
+}
+.pt4{
+    top: 660px;
+    right: 2%;
+}
+.pt5{
+    width: 94%;
+    top: 1310px;
+    left: 2%;
+}
+.pt6{
+    width: 94%;
+    top: 1800px;
+    left: 2%;
+}
+.image{
+    height: 150px;
+}
+.video{
+    position: absolute;
+    right: 5%;
+
+}
+.lefthalf{
+    width: 45%;
+}
+.normal{
+    color: beige;
+    text-decoration: none;
+    padding: 5px;
+    font-size: 15px;
+}
+.normal:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
